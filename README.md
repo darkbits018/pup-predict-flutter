@@ -35,7 +35,8 @@ git clone https://github.com/darkbits018/pup-predict-backend.git
 - Once the server starts, the app is ready to work
 
 ## Screenshots
-**Image Selection Screen**/
+**Image Selection Screen**
+<br>
 ![hs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/hs.jpg)
 
 **Classification Screen**/

@@ -37,16 +37,19 @@ git clone https://github.com/darkbits018/pup-predict-backend.git
 ## Screenshots
 **Image Selection Screen**
 <br>
-![hs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/hs.jpg =300x200)
+![hs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/hs.jpg)
 
-**Classification Screen**/
+**Classification Screen**
+<br>
 ![cs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/cs1.jpg)
 ![cs1](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/cs.jpg)
 
-**Video Screen**/
+**Video Screen**
+<br>
 ![vs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/vs.jpg)
 
-**Video Player Screen**/
+**Video Player Screen**
+<br>
 ![vs1](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/vps1.jpg)
 ![vs2](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/vps2.jpg)
 

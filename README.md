@@ -37,7 +37,7 @@ git clone https://github.com/darkbits018/pup-predict-backend.git
 ## Screenshots
 **Image Selection Screen**
 <br>
-![hs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/hs.jpg)
+![hs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/hs.jpg =300x200)
 
 **Classification Screen**/
 ![cs](https://github.com/darkbits018/pup-predict-flutter/blob/main/images/cs1.jpg)

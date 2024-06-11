@@ -12,7 +12,7 @@ class VideoScreen extends StatefulWidget {
 }
 
 class _VideoScreenState extends State<VideoScreen> {
-  String apiKey = "AIzaSyBFfGQjefDdDQ-GYOKIU72PRZ97pQdPgT0"; // Replace with your API key
+  String apiKey = "YOUTUBE-API-KEY"; // Replace with your API key
   late YoutubeAPI ytApi;
   late String searchQuery;
 

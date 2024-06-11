@@ -48,7 +48,7 @@ class MyHomePage extends StatelessWidget {
 
       var request = http.MultipartRequest(
         'POST',
-        Uri.parse('https://halibut-social-chow.ngrok-free.app/process_image'), // Replace with Flask app's endpoint
+        Uri.parse('NGROK-URL/process_image'), // Replace with Flask app's endpoint
       );
 
       request.files.add(
@@ -74,7 +74,7 @@ class MyHomePage extends StatelessWidget {
 
       var request = http.MultipartRequest(
         'POST',
-        Uri.parse('https://halibut-social-chow.ngrok-free.app/process_image'), // Replace with your Flask app's endpoint
+        Uri.parse('NGROK-URL/process_image'), // Replace with your Flask app's endpoint
       );
 
       request.files.add(
@@ -92,7 +92,7 @@ class MyHomePage extends StatelessWidget {
   }
 
   Future<void> _fetchAndDisplayClassification(BuildContext context, Uint8List imageBytes) async {
-    final Uri uri = Uri.parse('https://halibut-social-chow.ngrok-free.app/get_response');
+    final Uri uri = Uri.parse('NGROK-URL/get_response');
     final response = await http.get(uri);
 
     if (response.statusCode == 200) {

@@ -1,0 +1,4 @@
+- camera and gallery working
+- background added for main screen
+- video showing
+- video playing
